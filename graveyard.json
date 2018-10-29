@@ -951,4 +951,11 @@
     "link": "https://en.wikipedia.org/wiki/Freebase",
     "name": "Freebase"
   }
+   {
+    "dateClose": "2008-06-20",
+    "dateOpen": "2006-04-11",
+    "description":"send links and other information from Firefox to their phone by text message. Discontinued on August 28, replaced by Google Chrome to Phone."
+    "link": "https://en.wikipedia.org/wiki/send to phone",
+    "name": "send to phone"
+  }
 ]
